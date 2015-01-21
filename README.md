@@ -2,4 +2,6 @@
 TEMPLATE
 
 guia git hub basic 
-##http://rogerdudler.github.io/git-guide/index.es.html
+###ttp://rogerdudler.github.io/git-guide/index.es.html
+
+http://jatamayo.github.io/TEMPLATE. 
